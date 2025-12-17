@@ -34,10 +34,10 @@ The Hausa setting is particularly challenging due to limited annotated resources
 
 The notebooks can be opened and executed using **Google Colab**:
 
-- Subtask 1 (English): [Open in Colab](PUT_LINK_HERE)
-- Subtask 1 (Hausa): [Open in Colab](PUT_LINK_HERE)
-- Subtask 2: [Open in Colab](PUT_LINK_HERE)
-- Subtask 3: [Open in Colab](PUT_LINK_HERE)
+- Subtask 1 (English): [Open in Colab](https://drive.google.com/file/d/1fcYtkazva0OFRz2WE2zPctdsLozOykgg/view?usp=drive_link)
+- Subtask 1 (Hausa): [Open in Colab](https://drive.google.com/file/d/1lTZyzt22dMU41fpl6WLbxuFIyujDoTYK/view?usp=drive_link)
+- Subtask 2: [Open in Colab](https://drive.google.com/file/d/1OTXYCVWszMLjEHz25CKYkTvlLcAvbTWv/view?usp=drive_link)
+- Subtask 3: [Open in Colab](https://colab.research.google.com/drive/10AqrS0zmqApG7dnHbnjEkSUK8BumZrPA?usp=drive_link)
 
 ---
 
@@ -49,15 +49,6 @@ The notebooks can be opened and executed using **Google Colab**:
 
 ---
 
-## Requirements
-
-Main dependencies include:
-- Python 3.9+
-- PyTorch
-- HuggingFace Transformers
-- Scikit-learn
-
-See `requirements.txt` for the full list.
 
 ---
 
